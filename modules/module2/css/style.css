@@ -30,6 +30,15 @@ h2 {
 	padding: 2px;
 	font-size: 125%;
 }
+#mon {
+	background-color: #FF0000;
+}
+#tue {
+	background-color: #FF5100;
+}
+#wed {
+	background-color: #FF8F00;
+}
 p {
 	padding: 5px;
 	clear: right;
